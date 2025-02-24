@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Heitor Natan Guimarães
 - 👀 I’m interested in everything whitch involves technology, mainly front end and back end
 - 🌱 I’m currently learning many things at my school Cotemig, but I'm always trying to learn something different witch can help me in my journey in this field
-- 📫 How to reach me -> heitor11232012@gmail.com or 22202790@aluno.cotemig.com.br
+- 📫 How to reach me -> heitor11232012@gmail.com
